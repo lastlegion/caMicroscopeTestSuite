@@ -1,0 +1,17 @@
+{
+  "name": "camictestsuite",
+  "version": "1.0.0",
+  "description": "Functional/Integration Testing suite for CaMicroscope",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "wdio-mocha-framework": "^0.3.2"
+  },
+  "dependencies": {
+    "expect": "^1.20.1"
+  }
+}
