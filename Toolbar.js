@@ -1,4 +1,3 @@
-/* global browser */
 var assert = require('assert');
 var webdriverio = require('webdriverio');
 var client = webdriverio.remote({ desiredCapabilities: {browserName: 'chrome'} });
