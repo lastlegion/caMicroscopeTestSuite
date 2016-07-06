@@ -12,6 +12,7 @@
     "wdio-mocha-framework": "^0.3.2"
   },
   "dependencies": {
-    "expect": "^1.20.1"
+    "expect": "^1.20.1",
+    "webdriverio": "^4.1.1"
   }
 }
